@@ -1,0 +1,15 @@
+{
+    "name": "sergey/env",
+    "autoload": {
+        "psr-4": {
+            "Sergey\\Env\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sergey Nasekin",
+            "email": "rodos24601@gmail.com"
+        }
+    ],
+    "require": {}
+}
